@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/evilbookmainten/difficultychangepermin** and import
+* search for **https://github.com/evilbookmainten/difficultychangepermin** or **https://makecode.com/_XAbAi9AmH2jV** and import
 
 ## Edit this project
 
